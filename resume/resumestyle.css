@@ -1,0 +1,28 @@
+body {
+  background-color: #faf2e4;
+  font-family: sans-serif;
+  background: #eae7bd url(camera.png) no-repeat center 100px fixed;
+}
+
+h1 {
+  text-align: center;
+  font-family: serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  border-bottom: 2px solid #65431e;
+  margin-top: 30px;
+}
+
+h2 {
+  color: #cf6a00;
+  font-size: 1em;
+}
+
+p {
+color: black;
+}
+
+li {
+color: black;
+}
+
